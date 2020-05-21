@@ -24,6 +24,8 @@ namespace OperacoesData
             Console.WriteLine("d1 to local: " + d1.ToLocalTime());
             Console.WriteLine("d1 to universal: " + d1.ToUniversalTime());
 
+            Console.WriteLine("Teste");
+
         }
     }
 }
