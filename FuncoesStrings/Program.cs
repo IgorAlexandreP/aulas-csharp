@@ -41,6 +41,8 @@ namespace FuncoesStrings
 
             Console.WriteLine("Nulo ou vazio: " + b1);
             Console.WriteLine("Nulo ou espaço em branco: " + b2);
+
+            Console.WriteLine("Testando apenas o commit");
         }
     }
 }
