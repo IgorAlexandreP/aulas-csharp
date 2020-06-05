@@ -27,11 +27,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condicional", "Condicional\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FuncoesStrings", "FuncoesStrings\FuncoesStrings.csproj", "{76FAE71F-A7D1-420C-A26A-B7F4775A6A23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{C5627C05-4AE0-453A-A34E-6DAE5B341886}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{C5627C05-4AE0-453A-A34E-6DAE5B341886}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tempo", "Tempo\Tempo.csproj", "{8AD1DECD-03F7-46F3-AEDC-31C82C206670}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tempo", "Tempo\Tempo.csproj", "{8AD1DECD-03F7-46F3-AEDC-31C82C206670}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperacoesData", "OperacoesData\OperacoesData.csproj", "{60CA6A7A-5D63-420E-8367-094D9ED6D538}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperacoesData", "OperacoesData\OperacoesData.csproj", "{60CA6A7A-5D63-420E-8367-094D9ED6D538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeracoes", "Enumeracoes\Enumeracoes.csproj", "{FC34F90D-3EF7-4574-88F8-3AA56507A02F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{60CA6A7A-5D63-420E-8367-094D9ED6D538}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60CA6A7A-5D63-420E-8367-094D9ED6D538}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60CA6A7A-5D63-420E-8367-094D9ED6D538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC34F90D-3EF7-4574-88F8-3AA56507A02F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC34F90D-3EF7-4574-88F8-3AA56507A02F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC34F90D-3EF7-4574-88F8-3AA56507A02F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC34F90D-3EF7-4574-88F8-3AA56507A02F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
